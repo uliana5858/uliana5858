@@ -1,0 +1,15 @@
+/Users/uliana/Desktop/C#exr/bin/Debug/net6.0/C#exr
+/Users/uliana/Desktop/C#exr/bin/Debug/net6.0/C#exr.deps.json
+/Users/uliana/Desktop/C#exr/bin/Debug/net6.0/C#exr.runtimeconfig.json
+/Users/uliana/Desktop/C#exr/bin/Debug/net6.0/C#exr.dll
+/Users/uliana/Desktop/C#exr/bin/Debug/net6.0/C#exr.pdb
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.csproj.AssemblyReference.cache
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.AssemblyInfoInputs.cache
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.AssemblyInfo.cs
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.csproj.CoreCompileInputs.cache
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.dll
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/refint/C#exr.dll
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.pdb
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/C#exr.genruntimeconfig.cache
+/Users/uliana/Desktop/C#exr/obj/Debug/net6.0/ref/C#exr.dll
