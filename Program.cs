@@ -48,3 +48,17 @@ else
 
     Console.WriteLine("Odd number ");
 */
+
+/*  * NO GOOD *
+//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+int numb ,twDignumb ,sDignumb;
+Console.WriteLine("Enter three digit num: ");
+numb = Convert.ToInt32(Console.ReadLine());
+twDignumb = numb / 10;
+sDignumb =  twDignumb % 100;
+Console.WriteLine("sDignumb");
+*/
+
+
+
