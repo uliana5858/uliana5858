@@ -62,3 +62,19 @@ Console.WriteLine("sDignumb");
 
 
 
+//use .ToLower//
+Console.Write("Enput name:");
+string username = Console.ReadLine();
+
+if (username.ToLower() == "masha")
+{
+    Console.WriteLine("Yee, it's Masha! ");
+}
+else 
+{
+    Console.Write("Hi, ");
+    Console.WriteLine(username);
+
+}
+
+
