@@ -1,5 +1,7 @@
 /* Homework 1
+
 //Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
 int a, b;
 Console.Write("Enter first num: ");
 a = Convert.ToInt32(Console.ReadLine());
@@ -11,8 +13,10 @@ else
     Console.WriteLine("max = b, min = a");  
     */
 
-/*Homework 2
+/* Homework 2
+
 //Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел. 
+
 int num1, num2, num3;
 Console.WriteLine("Enter First num: ");
 num1 = Convert.ToInt32(Console.ReadLine());
@@ -29,6 +33,7 @@ Console.WriteLine(max);
 */
 
 //Homework 3
+
 //Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
 /*
