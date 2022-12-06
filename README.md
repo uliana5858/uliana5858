@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @uliana5858
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+/* Homework 1
+//Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+int a, b;
+Console.Write("Enter first num: ");
+a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Enter second num: " );
+b = Convert.ToInt32(Console.ReadLine());
+if (a > b)
+    Console.WriteLine("max = a, min = b");
+else 
+    Console.WriteLine("max = b, min = a");  
+    */
 
-<!---
-uliana5858/uliana5858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+/*Homework 2
+//Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел. 
+int num1, num2, num3;
+Console.WriteLine("Enter First num: ");
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter second num: ");
+num2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter third num: ");
+num3 = Convert.ToInt32(Console.ReadLine());
+int max = num1;
+ if (num1 > max) max = num1;
+ if (num2 > max) max = num2;
+ if (num3 > max) max = num3;
+Console.Write("max = ");
+Console.WriteLine(max);
+*/
+
+//Homework 3
+//Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+/*
+int number;
+Console.WriteLine("Enter num:");
+number = Convert.ToInt32(Console.ReadLine());
+if ((number % 2) == 0)
+    Console.WriteLine("Even number ");
+else 
+    Console.WriteLine("Odd number ");
+*/
