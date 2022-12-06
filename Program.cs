@@ -61,7 +61,7 @@ Console.WriteLine("sDignumb");
 */
 
 
-
+/*
 //use .ToLower//
 Console.Write("Enput name:");
 string username = Console.ReadLine();
@@ -76,5 +76,9 @@ else
     Console.WriteLine(username);
 
 }
+*/
+
+
+
 
 
