@@ -78,6 +78,73 @@ else
 }
 */
 
+// Find max//
+/*
+int a = 1;
+int b = 2;
+int c = 6;
+int d = 8;
+int e = 4;
+
+int max = a;
+
+if (a > max ) max = a;
+if (b > max ) max = b;
+if (c > max ) max = c;
+if (d > max ) max = d;
+if (e > max ) max = e;
+
+Console.Write("max = ");
+Console.WriteLine(max);
+
+*/
+
+/*
+//Напишите программу, которая принимает на вход координаты точки (X и Y), причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.
+
+ 
+int FindQuadrant(double x ,double y)
+{
+    if (x > 0 && y >0)return 1;
+    if (x < 0 && y >0)return 2;
+    if (x < 0 && y <0)return 3;
+    if (x > 0 && y <0)return 4;
+    return 0;
+}
+
+Console.Write("Input an x - coordinate: ");
+double xA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Input an y - coordinate: ");
+double yA = Convert.ToDouble(Console.ReadLine());
+
+int quadNum = FindQuadrant(xA,xA);
+
+Console.WriteLine($"The point A({xA}), {yA}) is DateOnly the {quadNum}");
+
+*/
+
+
+
+//Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
+
+
+void FindCoordinates (int quadrant);
+{
+if (quadrant == 1)
+    Console.WriteLine("x > 0 and y > 0");
+if (quadrant == 2)
+    Console.WriteLine("x > 0 and y > 0");
+if (quadrant == 3)
+    Console.WriteLine("x > 0 and y > 0");
+if (quadrant == 4)
+    Console.WriteLine("x > 0 and y > 0");
+    }
+
+Console.WriteLine("Please, input quandrant");
+int quadrant = Convert.ToInt32(Console.ReadLine());
+if (quadrant > 5 && quadrant< 5);
+else 
+    Console.WriteLine("No coordinates for this quadrant.");
 
 
 
